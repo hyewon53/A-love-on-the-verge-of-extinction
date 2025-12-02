@@ -1,6 +1,7 @@
 # 멸종위기사랑
 
-![KakaoTalk 20251126 004231618 05](https://rfcjwfcfjbykdpmgkmwm.supabase.co/storage/v1/object/public/images/uploads/1764640248488-hh0nb6.webp)
+![KakaoTalk_20251201_010332207](https://github.com/user-attachments/assets/4a457193-e067-4b11-acab-70f56506db60)
+
 
 ## 프로젝트 설명
 
